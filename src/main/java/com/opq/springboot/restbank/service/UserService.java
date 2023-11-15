@@ -73,7 +73,8 @@ public class UserService {
 	}
 
 
- // add loan features
+ // add loan feature
+	// tested this feature in local
 }
 
 
