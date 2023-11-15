@@ -75,6 +75,8 @@ public class UserService {
 //create car loan
 	//test line
  
+
+ // add loan features
 }
 
 
